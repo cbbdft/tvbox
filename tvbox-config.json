@@ -1,17 +1,18 @@
 {
   "name": "TVBox 直播源配置",
   "description": "本地化 TVBox 直播源管理与加速配置中心",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "author": "cbbdft",
   "sources": [
     {
-      "name": "CCTV+省级卫视 (中国移动源)",
-      "file": "sources/china.json",
+      "name": "Yinzuo银座(推荐)",
+      "file": "sources/yinzuo_live.m3u",
+      "type": "m3u",
       "enabled": true,
-      "channels": 58,
-      "verified": false,
-      "source_url": "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
-      "note": "央视17台+省级37台，OTTrrs中国移动CDN，优先央视。请在TVBox上测试。"
+      "channels": 93,
+      "verified": true,
+      "source_url": "https://jihulab.com/Liangmyjj/tvboxx/-/raw/main/LOVE/新IP故事通.txt",
+      "note": "93个频道含CCTV16-4K/CCTV4K/欢笑剧场4K+省级+凤凰卫视，使用rtxapp.com CDN，国内可直接访问。EPG: epg.112114.xyz"
     },
     {
       "name": "YanG聚合",
@@ -28,8 +29,21 @@
       "channels": 24,
       "verified": true,
       "note": "国际频道（CNA/TRT等）"
+    },
+    {
+      "name": "CCTV+省级卫视 (中国移动源)",
+      "file": "sources/china.json",
+      "enabled": false,
+      "channels": 58,
+      "verified": false,
+      "note": "已禁用——ottrrs.hl.chinamobile.com需要内网权限，海外不可用"
     }
   ],
+  "tvbox_config": {
+    "enabled": true,
+    "config_url": "https://jihulab.com/Liangmyjj/tvboxx/-/raw/main/yinzuo2.json",
+    "description": "完整TVBox配置(含直播+点播+解析)，适合有TVBox客户端的用户"
+  }
   "proxy": {
     "enabled": false,
     "type": "v2ray",
