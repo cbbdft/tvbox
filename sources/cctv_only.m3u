@@ -1,0 +1,151 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-group="央视频道",CCTV1
+http://112.27.235.94:8000/hls/1/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV2" tvg-group="央视频道",CCTV2
+https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV3" tvg-group="央视频道",CCTV3
+https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV4" tvg-group="央视频道",CCTV4
+https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-group="央视频道",CCTV5
+https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-group="央视频道",CCTV5+
+https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV6" tvg-group="央视频道",CCTV6
+https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV7" tvg-group="央视频道",CCTV7
+https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV8" tvg-group="央视频道",CCTV8
+https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV9" tvg-group="央视频道",CCTV9
+https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV10" tvg-group="央视频道",CCTV10
+http://222.169.85.8:9901/tsfile/live/0010_1.m3u8
+
+#EXTINF:-1 tvg-name="CCTV11" tvg-group="央视频道",CCTV11
+https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV12" tvg-group="央视频道",CCTV12
+http://222.169.85.8:9901/tsfile/live/0012_1.m3u8
+
+#EXTINF:-1 tvg-name="CCTV13" tvg-group="央视频道",CCTV13
+https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV14" tvg-group="央视频道",CCTV14
+https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV15" tvg-group="央视频道",CCTV15
+http://222.169.85.8:9901/tsfile/live/0015_1.m3u8
+
+#EXTINF:-1 tvg-name="CCTV16" tvg-group="央视频道",CCTV16
+https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV17" tvg-group="央视频道",CCTV17
+https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+
+#EXTINF:-1 tvg-name="CCTV央视台球" tvg-group="央视频道",CCTV央视台球
+https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
+
+#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-group="央视频道",CCTV第一剧场
+https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+
+#EXTINF:-1 tvg-name="CGTN" tvg-group="央视频道",CGTN
+http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-group="央视频道",CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+
+#EXTINF:-1 tvg-name="CGTN法语" tvg-group="央视频道",CGTN法语
+https://0472.org/hls/cgtnf.m3u8
+
+#EXTINF:-1 tvg-name="CGTN西语" tvg-group="央视频道",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-group="央视频道",CGTN阿语
+https://0472.org/hls/cgtna.m3u8
+
+#EXTINF:-1 tvg-name="CCTV4K" tvg-group="央视频道",CCTV4K
+http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-group="纪录频道",CGTN纪录
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+
+#EXTINF:-1 tvg-name="CGTN记录" tvg-group="央视频道",CGTN记录
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-group="YouTube「P」",CCTV4中文国际
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+
+#EXTINF:-1 tvg-name="CCTV 4K" tvg-group="•特色",CCTV 4K
+http://113.117.74.17:8081/hls/144/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV-1" tvg-group="📺央视频道",CCTV-1
+https://iptv.catvod.com/live.php?id=CCTV1&line=4
+
+#EXTINF:-1 tvg-name="CCTV-2" tvg-group="📺央视频道",CCTV-2
+https://iptv.catvod.com/live.php?id=CCTV2&line=4
+
+#EXTINF:-1 tvg-name="CCTV-3" tvg-group="📺央视频道",CCTV-3
+https://iptv.catvod.com/live.php?id=CCTV3&line=5
+
+#EXTINF:-1 tvg-name="CCTV-4" tvg-group="📺央视频道",CCTV-4
+https://iptv.catvod.com/live.php?id=CCTV4&line=3
+
+#EXTINF:-1 tvg-name="CCTV-5" tvg-group="📺央视频道",CCTV-5
+https://iptv.catvod.com/live.php?id=CCTV5&line=10
+
+#EXTINF:-1 tvg-name="CCTV-5+" tvg-group="📺央视频道",CCTV-5+
+http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+
+#EXTINF:-1 tvg-name="CCTV-6" tvg-group="📺央视频道",CCTV-6
+https://iptv.catvod.com/live.php?id=CCTV6&line=7
+
+#EXTINF:-1 tvg-name="CCTV-7" tvg-group="📺央视频道",CCTV-7
+https://iptv.catvod.com/live.php?id=CCTV7&line=3
+
+#EXTINF:-1 tvg-name="CCTV-8" tvg-group="📺央视频道",CCTV-8
+https://iptv.catvod.com/live.php?id=CCTV8&line=4
+
+#EXTINF:-1 tvg-name="CCTV-9" tvg-group="📺央视频道",CCTV-9
+https://iptv.catvod.com/live.php?id=CCTV9&line=3
+
+#EXTINF:-1 tvg-name="CCTV-10" tvg-group="📺央视频道",CCTV-10
+https://iptv.catvod.com/live.php?id=CCTV10&line=10
+
+#EXTINF:-1 tvg-name="CCTV-11" tvg-group="📺央视频道",CCTV-11
+https://iptv.catvod.com/live.php?id=CCTV11&line=3
+
+#EXTINF:-1 tvg-name="CCTV-12" tvg-group="📺央视频道",CCTV-12
+https://iptv.catvod.com/live.php?id=CCTV12&line=5
+
+#EXTINF:-1 tvg-name="CCTV-13" tvg-group="📺央视频道",CCTV-13
+https://iptv.catvod.com/live.php?id=CCTV13&line=12
+
+#EXTINF:-1 tvg-name="CCTV-14" tvg-group="📺央视频道",CCTV-14
+https://iptv.catvod.com/live.php?id=CCTV14&line=4
+
+#EXTINF:-1 tvg-name="CCTV-15" tvg-group="📺央视频道",CCTV-15
+https://iptv.catvod.com/live.php?id=CCTV15&line=4
+
+#EXTINF:-1 tvg-name="CCTV-16" tvg-group="📺央视频道",CCTV-16
+https://iptv.catvod.com/live.php?id=CCTV16
+
+#EXTINF:-1 tvg-name="CCTV-17" tvg-group="📺央视频道",CCTV-17
+https://iptv.catvod.com/live.php?id=CCTV17&line=5
+
+#EXTINF:-1 tvg-name="CETV-1" tvg-group="📺央视频道",CETV-1
+https://iptv.catvod.com/live.php?id=CETV1&line=1
+
+#EXTINF:-1 tvg-name="CETV-2" tvg-group="📺央视频道",CETV-2
+https://iptv.catvod.com/live.php?id=CETV2
