@@ -5,10 +5,19 @@
   "author": "cbbdft",
   "sources": [
     {
+      "name": "CCTV+省级频道(vbskycn)",
+      "file": "sources/cctv_provincial.m3u",
+      "type": "m3u",
+      "enabled": true,
+      "channels": 275,
+      "verified": true,
+      "note": "央视+省级，vbskycn+aliyun双源，18个CCTV经测试可用"
+    },
+    {
       "name": "Yinzuo银座(推荐)",
       "file": "sources/yinzuo_live.m3u",
       "type": "m3u",
-      "enabled": true,
+      "enabled": false,
       "channels": 93,
       "verified": true,
       "source_url": "https://jihulab.com/Liangmyjj/tvboxx/-/raw/main/LOVE/新IP故事通.txt",
@@ -29,15 +38,6 @@
       "channels": 24,
       "verified": true,
       "note": "国际频道（CNA/TRT等）"
-    },
-    {
-      "name": "CCTV+省级频道(vbskycn)",
-      "file": "sources/cctv_provincial.m3u",
-      "type": "m3u",
-      "enabled": true,
-      "channels": 275,
-      "verified": true,
-      "note": "CCTV全套+全国省级卫视+地方台，来源live.zhoujie218.top(vbskycn)，8M移动CDN。去重后275个频道，包含央视17台+32个省级台+200+地方台。"
     },
     {
       "name": "CCTV频道专用",
@@ -61,7 +61,7 @@
     "enabled": false,
     "config_url": "https://jihulab.com/Liangmyjj/tvboxx/-/raw/main/yinzuo2.json",
     "description": "完整TVBox配置(含直播+点播+解析)，适合有TVBox客户端的用户"
-  }
+  },
   "proxy": {
     "enabled": false,
     "type": "v2ray",
