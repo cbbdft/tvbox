@@ -1,0 +1,191 @@
+#EXTM3U x-tvg-url="https://epg.yang-1989.eu.org/epg.xml.gz"
+#EXTINF:-1 tvg-id="test1_4000" group-title="其他",凤凰中文
+https://php.61073736.repl.co/sxg.php?id=test1_4000
+#EXTINF:-1 tvg-id="test2_4000" group-title="其他",凤凰资讯
+https://php.61073736.repl.co/sxg.php?id=test2_4000
+#EXTINF:-1 tvg-id="CCTV-1H265_4000" group-title="央视频道",CCTV1综合
+https://php.61073736.repl.co/sxg.php?id=CCTV-1H265_4000
+#EXTINF:-1 tvg-id="CCTV-2H265_4000" group-title="央视频道",CCTV2财经
+https://php.61073736.repl.co/sxg.php?id=CCTV-2H265_4000
+#EXTINF:-1 tvg-id="CCTV-3H265_4000" group-title="央视频道",CCTV3综艺
+https://php.61073736.repl.co/sxg.php?id=CCTV-3H265_4000
+#EXTINF:-1 tvg-id="CCTV-4H265_4000" group-title="央视频道",CCTV4中文国际
+https://php.61073736.repl.co/sxg.php?id=CCTV-4H265_4000
+#EXTINF:-1 tvg-id="CCTV-5H265_4000" group-title="央视频道",CCTV5体育
+https://php.61073736.repl.co/sxg.php?id=CCTV-5H265_4000
+#EXTINF:-1 tvg-id="CCTV-5plusH265_4000" group-title="央视频道",CCTV5+
+https://php.61073736.repl.co/sxg.php?id=CCTV-5plusH265_4000
+#EXTINF:-1 tvg-id="CCTV-6H265_4000" group-title="央视频道",CCTV6电影
+https://php.61073736.repl.co/sxg.php?id=CCTV-6H265_4000
+#EXTINF:-1 tvg-id="CCTV-7H265_4000" group-title="央视频道",CCTV7国防军事
+https://php.61073736.repl.co/sxg.php?id=CCTV-7H265_4000
+#EXTINF:-1 tvg-id="CCTV-8H265_4000" group-title="央视频道",CCTV8电视剧
+https://php.61073736.repl.co/sxg.php?id=CCTV-8H265_4000
+#EXTINF:-1 tvg-id="CCTV-9H265_4000" group-title="央视频道",CCTV9纪录
+https://php.61073736.repl.co/sxg.php?id=CCTV-9H265_4000
+#EXTINF:-1 tvg-id="CCTV-10H265_4000" group-title="央视频道",CCTV10科教
+https://php.61073736.repl.co/sxg.php?id=CCTV-10H265_4000
+#EXTINF:-1 tvg-id="CCTV-11-H265_4000" group-title="央视频道",CCTV11戏曲
+https://php.61073736.repl.co/sxg.php?id=CCTV-11-H265_4000
+#EXTINF:-1 tvg-id="CCTV-12H265_4000" group-title="央视频道",CCTV12社会与法
+https://php.61073736.repl.co/sxg.php?id=CCTV-12H265_4000
+#EXTINF:-1 tvg-id="CCTV-xw_4000" group-title="央视频道",CCTV13新闻
+https://php.61073736.repl.co/sxg.php?id=CCTV-xw_4000
+#EXTINF:-1 tvg-id="CCTV-14H265_4000" group-title="央视频道",CCTV14少儿
+https://php.61073736.repl.co/sxg.php?id=CCTV-14H265_4000
+#EXTINF:-1 tvg-id="CCTV-15-yyH265_4000" group-title="央视频道",CCTV15音乐
+https://php.61073736.repl.co/sxg.php?id=CCTV-15-yyH265_4000
+#EXTINF:-1 tvg-id="CCTV-16_4000" group-title="央视频道",CCTV16奥林匹克
+https://php.61073736.repl.co/sxg.php?id=CCTV-16_4000
+#EXTINF:-1 tvg-id="CCTV-16-4K_8000" group-title="央视频道",CCTV16(4K)
+https://php.61073736.repl.co/sxg.php?id=CCTV-16-4K_8000
+#EXTINF:-1 tvg-id="CCTV-17_4000" group-title="央视频道",CCTV17农业农村
+https://php.61073736.repl.co/sxg.php?id=CCTV-17_4000
+#EXTINF:-1 tvg-id="ys4Kcq_2000" group-title="央视频道",CCTV4K
+https://php.61073736.repl.co/sxg.php?id=ys4Kcq_2000
+#EXTINF:-1 tvg-id="emdy4k_8000" group-title="4K超高清",4K超高清电影 4K
+https://php.61073736.repl.co/sxg.php?id=emdy4k_8000
+#EXTINF:-1 tvg-id="hxjc-4k_8000" group-title="4K超高清",欢笑剧场4K
+https://php.61073736.repl.co/sxg.php?id=hxjc-4k_8000
+#EXTINF:-1 tvg-id="ahwsH265_4000" group-title="省级卫视",安徽卫视
+https://php.61073736.repl.co/sxg.php?id=ahwsH265_4000
+#EXTINF:-1 tvg-id="bjwsH265_4000" group-title="省级卫视",北京卫视
+https://php.61073736.repl.co/sxg.php?id=bjwsH265_4000
+#EXTINF:-1 tvg-id="btws_4000" group-title="省级卫视",兵团卫视
+https://php.61073736.repl.co/sxg.php?id=btws_4000
+#EXTINF:-1 tvg-id="cqwsH265_4000" group-title="省级卫视",重庆卫视
+https://php.61073736.repl.co/sxg.php?id=cqwsH265_4000
+#EXTINF:-1 tvg-id="dfwsH265_4000" group-title="省级卫视",东方卫视
+https://php.61073736.repl.co/sxg.php?id=dfwsH265_4000
+#EXTINF:-1 tvg-id="dnwsfjwsH265_4000" group-title="省级卫视",东南卫视
+https://php.61073736.repl.co/sxg.php?id=dnwsfjwsH265_4000
+#EXTINF:-1 tvg-id="gsws_4000" group-title="省级卫视",甘肃卫视
+https://php.61073736.repl.co/sxg.php?id=gsws_4000
+#EXTINF:-1 tvg-id="gdwsH265_4000" group-title="省级卫视",广东卫视
+https://php.61073736.repl.co/sxg.php?id=gdwsH265_4000
+#EXTINF:-1 tvg-id="gxws_4000" group-title="省级卫视",广西卫视
+https://php.61073736.repl.co/sxg.php?id=gxws_4000
+#EXTINF:-1 tvg-id="gzwsH265_4000" group-title="省级卫视",贵州卫视
+https://php.61073736.repl.co/sxg.php?id=gzwsH265_4000
+#EXTINF:-1 tvg-id="hnws_4000" group-title="省级卫视",海南卫视
+https://php.61073736.repl.co/sxg.php?id=hnws_4000
+#EXTINF:-1 tvg-id="hnws35_4000" group-title="省级卫视",河南卫视
+https://php.61073736.repl.co/sxg.php?id=hnws35_4000
+#EXTINF:-1 tvg-id="hljwsH265_4000" group-title="省级卫视",黑龙江卫视
+https://php.61073736.repl.co/sxg.php?id=hljwsH265_4000
+#EXTINF:-1 tvg-id="hbwsH265_4000" group-title="省级卫视",湖北卫视
+https://php.61073736.repl.co/sxg.php?id=hbwsH265_4000
+#EXTINF:-1 tvg-id="hnwsH265_4000" group-title="省级卫视",湖南卫视
+https://php.61073736.repl.co/sxg.php?id=hnwsH265_4000
+#EXTINF:-1 tvg-id="jlwsH265_4000" group-title="省级卫视",吉林卫视
+https://php.61073736.repl.co/sxg.php?id=jlwsH265_4000
+#EXTINF:-1 tvg-id="jswsH265_4000" group-title="省级卫视",江苏卫视
+https://php.61073736.repl.co/sxg.php?id=jswsH265_4000
+#EXTINF:-1 tvg-id="jxwsH265_4000" group-title="省级卫视",江西卫视
+https://php.61073736.repl.co/sxg.php?id=jxwsH265_4000
+#EXTINF:-1 tvg-id="kbwsH264_2000" group-title="省级卫视",康巴卫视
+https://php.61073736.repl.co/sxg.php?id=kbwsH264_2000
+#EXTINF:-1 tvg-id="lnwsHDH264_4000" group-title="省级卫视",辽宁卫视
+https://php.61073736.repl.co/sxg.php?id=lnwsHDH264_4000
+#EXTINF:-1 tvg-id="nmgws_4000" group-title="省级卫视",内蒙古卫视
+https://php.61073736.repl.co/sxg.php?id=nmgws_4000
+#EXTINF:-1 tvg-id="sdjy_4000" group-title="省级卫视",山东教育卫视
+https://php.61073736.repl.co/sxg.php?id=sdjy_4000
+#EXTINF:-1 tvg-id="sdwsH265_4000" group-title="省级卫视",山东卫视
+https://php.61073736.repl.co/sxg.php?id=sdwsH265_4000
+#EXTINF:-1 tvg-id="sxws42_4000" group-title="省级卫视",山西卫视
+https://php.61073736.repl.co/sxg.php?id=sxws42_4000
+#EXTINF:-1 tvg-id="sxws_4000" group-title="省级卫视",陕西卫视
+https://php.61073736.repl.co/sxg.php?id=sxws_4000
+#EXTINF:-1 tvg-id="szwsH265_4000" group-title="省级卫视",深圳卫视
+https://php.61073736.repl.co/sxg.php?id=szwsH265_4000
+#EXTINF:-1 tvg-id="scwsH265_4000" group-title="省级卫视",四川卫视
+https://php.61073736.repl.co/sxg.php?id=scwsH265_4000
+#EXTINF:-1 tvg-id="tjwsH265_4000" group-title="省级卫视",天津卫视
+https://php.61073736.repl.co/sxg.php?id=tjwsH265_4000
+#EXTINF:-1 tvg-id="xzwsH264_2000" group-title="省级卫视",西藏卫视
+https://php.61073736.repl.co/sxg.php?id=xzwsH264_2000
+#EXTINF:-1 tvg-id="ynws_4000" group-title="省级卫视",云南卫视
+https://php.61073736.repl.co/sxg.php?id=ynws_4000
+#EXTINF:-1 tvg-id="zjwsH265_4000" group-title="省级卫视",浙江卫视
+https://php.61073736.repl.co/sxg.php?id=zjwsH265_4000
+#EXTINF:-1 tvg-id="CETV-1H264_4000" group-title="教育频道",CETV-1
+https://php.61073736.repl.co/sxg.php?id=CETV-1H264_4000
+#EXTINF:-1 tvg-id="wqCHCdzdyH265_4000" group-title="数字频道",CHC动作电影
+https://php.61073736.repl.co/sxg.php?id=wqCHCdzdyH265_4000
+#EXTINF:-1 tvg-id="lnwsCHC-HDH265_4000" group-title="数字频道",CHC高清电影
+https://php.61073736.repl.co/sxg.php?id=lnwsCHC-HDH265_4000
+#EXTINF:-1 tvg-id="jbtygqCHCjtyyH265_4000" group-title="数字频道",CHC家庭影院
+https://php.61073736.repl.co/sxg.php?id=jbtygqCHCjtyyH265_4000
+#EXTINF:-1 tvg-id="yybb-dmxc-H265_4000" group-title="其他",动漫秀场
+https://php.61073736.repl.co/sxg.php?id=yybb-dmxc-H265_4000
+#EXTINF:-1 tvg-id="yxfydsjcHDH265_4000" group-title="其他",都市剧场
+https://php.61073736.repl.co/sxg.php?id=yxfydsjcHDH265_4000
+#EXTINF:-1 tvg-id="fztx_4000" group-title="其他",法治天地
+https://php.61073736.repl.co/sxg.php?id=fztx_4000
+#EXTINF:-1 tvg-id="jsqcH265_4000" group-title="其他",极速汽车
+https://php.61073736.repl.co/sxg.php?id=jsqcH265_4000
+#EXTINF:-1 tvg-id="bjjs_2000" group-title="其他",纪实科教
+https://php.61073736.repl.co/sxg.php?id=bjjs_2000
+#EXTINF:-1 tvg-id="jjkt_2000" group-title="其他",嘉佳卡通
+https://php.61073736.repl.co/sxg.php?id=jjkt_2000
+#EXTINF:-1 tvg-id="jtlc_4000" group-title="其他",家庭理财
+https://php.61073736.repl.co/sxg.php?id=jtlc_4000
+#EXTINF:-1 tvg-id="cftx_4000" group-title="其他",江苏财富天下
+https://php.61073736.repl.co/sxg.php?id=cftx_4000
+#EXTINF:-1 tvg-id="jyjsHDH265_4000" group-title="其他",金鹰纪实
+https://php.61073736.repl.co/sxg.php?id=jyjsHDH265_4000
+#EXTINF:-1 tvg-id="jykt_2000" group-title="其他",金鹰卡通
+https://php.61073736.repl.co/sxg.php?id=jykt_2000
+#EXTINF:-1 tvg-id="lqhxjcHDH265_4000" group-title="其他",劲爆体育
+https://php.61073736.repl.co/sxg.php?id=lqhxjcHDH265_4000
+#EXTINF:-1 tvg-id="kkkt_4000" group-title="其他",卡酷少儿
+https://php.61073736.repl.co/sxg.php?id=kkkt_4000
+#EXTINF:-1 tvg-id="fyzqklcdHDH265_4000" group-title="其他",快乐垂钓
+https://php.61073736.repl.co/sxg.php?id=fyzqklcdHDH265_4000
+#EXTINF:-1 tvg-id="qjs-HDH265_4000" group-title="其他",乐游
+https://php.61073736.repl.co/sxg.php?id=qjs-HDH265_4000
+#EXTINF:-1 tvg-id="ly_4000" group-title="其他",梨园频道
+https://php.61073736.repl.co/sxg.php?id=ly_4000
+#EXTINF:-1 tvg-id="mlyy_4000" group-title="其他",魅力足球
+https://php.61073736.repl.co/sxg.php?id=mlyy_4000
+#EXTINF:-1 tvg-id="sy_4000" group-title="其他",摄影频道
+https://php.61073736.repl.co/sxg.php?id=sy_4000
+#EXTINF:-1 tvg-id="shssH265_4000" group-title="其他",生活时尚
+https://php.61073736.repl.co/sxg.php?id=shssH265_4000
+#EXTINF:-1 tvg-id="shdy_4000" group-title="其他",四海钓鱼
+https://php.61073736.repl.co/sxg.php?id=shdy_4000
+#EXTINF:-1 tvg-id="tywq_2000" group-title="其他",天元围棋
+https://php.61073736.repl.co/sxg.php?id=tywq_2000
+#EXTINF:-1 tvg-id="wssj_4000" group-title="其他",武术世界
+https://php.61073736.repl.co/sxg.php?id=wssj_4000
+#EXTINF:-1 tvg-id="xfpy_4000" group-title="其他",先锋乒羽
+https://php.61073736.repl.co/sxg.php?id=xfpy_4000
+#EXTINF:-1 tvg-id="ycxsjH265_4000" group-title="其他",新视觉
+https://php.61073736.repl.co/sxg.php?id=ycxsjH265_4000
+#EXTINF:-1 tvg-id="jz_2000" group-title="其他",证劵服务
+https://php.61073736.repl.co/sxg.php?id=jz_2000
+#EXTINF:-1 tvg-id="zgqx_4000" group-title="其他",中国天气
+https://php.61073736.repl.co/sxg.php?id=zgqx_4000
+#EXTINF:-1 tvg-id="fxzl_2000" group-title="其他",中央新影-发现之旅
+https://php.61073736.repl.co/sxg.php?id=fxzl_2000
+#EXTINF:-1 tvg-id="lgs_2000" group-title="其他",中央新影-老故事
+https://php.61073736.repl.co/sxg.php?id=lgs_2000
+#EXTINF:-1 tvg-id="zxs_4000" group-title="其他",中央新影-中学生
+https://php.61073736.repl.co/sxg.php?id=zxs_4000
+#EXTINF:-1 tvg-id="ey_2000" group-title="其他",CGTN-俄语
+https://php.61073736.repl.co/sxg.php?id=ey_2000
+#EXTINF:-1 tvg-id="fy_2000" group-title="其他",CGTN-法语
+https://php.61073736.repl.co/sxg.php?id=fy_2000
+#EXTINF:-1 tvg-id="xbyy_2000" group-title="其他",CGTN-西语
+https://php.61073736.repl.co/sxg.php?id=xbyy_2000
+#EXTINF:-1 tvg-id="CGTN_4000" group-title="其他",CGTN-英语
+https://php.61073736.repl.co/sxg.php?id=CGTN_4000
+#EXTINF:-1 tvg-id="jjgw_4000" group-title="其他",家家购物
+https://php.61073736.repl.co/sxg.php?id=jjgw_4000
+#EXTINF:-1 tvg-id="jygw_4000" group-title="其他",家有购物
+https://php.61073736.repl.co/sxg.php?id=jygw_4000
+#EXTINF:-1 tvg-id="yggwgq_4000" group-title="其他",央广购物
+https://php.61073736.repl.co/sxg.php?id=yggwgq_4000
+#EXTINF:-1 tvg-id="ygw_4000" group-title="其他",优购物
+https://php.61073736.repl.co/sxg.php?id=ygw_4000
