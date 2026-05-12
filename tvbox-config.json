@@ -1,0 +1,38 @@
+{
+  "name": "TVBox 直播源配置",
+  "description": "本地化 TVBox 直播源管理与加速配置",
+  "version": "1.0.0",
+  "author": "cbbdft",
+  "sources": [
+    {
+      "name": "央视频道",
+      "file": "sources/china.json",
+      "enabled": true
+    },
+    {
+      "name": "卫视频道",
+      "file": "sources/hunan.json",
+      "enabled": true
+    },
+    {
+      "name": "体育频道",
+      "file": "sources/sports.json",
+      "enabled": true
+    },
+    {
+      "name": "自定义源",
+      "file": "sources/custom.json",
+      "enabled": false
+    }
+  ],
+  "proxy": {
+    "enabled": false,
+    "type": "v2ray",
+    "config_file": "acceleration/v2ray.json"
+  },
+  "auto_update": {
+    "enabled": true,
+    "interval_hours": 24,
+    "update_url": "https://raw.githubusercontent.com/cbbdft/tvbox/main/sources/"
+  }
+}

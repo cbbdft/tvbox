@@ -1,0 +1,138 @@
+{
+  "name": "央视频道",
+  "channels": [
+    {
+      "name": "CCTV-1 综合",
+      "url": "http://cctv1.v.btime.com/lsflv/cctv1/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV1.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-2 财经",
+      "url": "http://cctv2.v.btime.com/lsflv/cctv2/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV2.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-3 综艺",
+      "url": "http://cctv3.v.btime.com/lsflv/cctv3/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV3.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-4 国际",
+      "url": "http://cctv4.v.btime.com/lsflv/cctv4/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV4.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-5 体育",
+      "url": "http://cctv5.v.btime.com/lsflv/cctv5/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV5.png",
+      "category": "体育频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-5+ 体育赛事",
+      "url": "http://cctv5plus.v.btime.com/lsflv/cctv5plus/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV5+.png",
+      "category": "体育频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-6 电影",
+      "url": "http://cctv6.v.btime.com/lsflv/cctv6/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV6.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-7 军事农业",
+      "url": "http://cctv7.v.btime.com/lsflv/cctv7/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV7.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-8 电视剧",
+      "url": "http://cctv8.v.btime.com/lsflv/cctv8/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV8.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-9 纪录",
+      "url": "http://cctv9.v.btime.com/lsflv/cctv9/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV9.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-10 科教",
+      "url": "http://cctv10.v.btime.com/lsflv/cctv10/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV10.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-11 戏曲",
+      "url": "http://cctv11.v.btime.com/lsflv/cctv11/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV11.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-12 社会与法",
+      "url": "http://cctv12.v.btime.com/lsflv/cctv12/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV12.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-13 新闻",
+      "url": "http://cctv13.v.btime.com/lsflv/cctv13/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV13.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-14 少儿",
+      "url": "http://cctv14.v.btime.com/lsflv/cctv14/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV14.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-15 音乐",
+      "url": "http://cctv15.v.btime.com/lsflv/cctv15/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV15.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-16 奥林匹克",
+      "url": "http://cctv16.v.btime.com/lsflv/cctv16/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV16.png",
+      "category": "体育频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-17 农业农村",
+      "url": "http://cctv17.v.btime.com/lsflv/cctv17/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV17.png",
+      "category": "央视频道",
+      "enabled": true
+    },
+    {
+      "name": "CCTV-4K",
+      "url": "http://cctv4k.v.btime.com/lsflv/cctv4k/live.m3u8",
+      "logo": "https://epg.112114.xyz/logo/CCTV4K.png",
+      "category": "央视频道",
+      "enabled": false
+    }
+  ]
+}
