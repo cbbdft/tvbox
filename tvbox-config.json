@@ -1,28 +1,24 @@
 {
   "name": "TVBox 直播源配置",
-  "description": "本地化 TVBox 直播源管理与加速配置",
+  "description": "本地化 TVBox 直播源管理与加速配置中心",
   "version": "1.0.0",
   "author": "cbbdft",
   "sources": [
     {
-      "name": "央视频道",
-      "file": "sources/china.json",
-      "enabled": true
+      "name": "YanG聚合",
+      "file": "sources/YanG聚合.json",
+      "enabled": true,
+      "channels": 129,
+      "verified": true,
+      "note": "央视/咪咕/移动频道，100%测试可用"
     },
     {
-      "name": "卫视频道",
-      "file": "sources/hunan.json",
-      "enabled": true
-    },
-    {
-      "name": "体育频道",
-      "file": "sources/sports.json",
-      "enabled": true
-    },
-    {
-      "name": "自定义源",
-      "file": "sources/custom.json",
-      "enabled": false
+      "name": "trial国际频道",
+      "file": "sources/trial.json",
+      "enabled": true,
+      "channels": 24,
+      "verified": true,
+      "note": "国际频道（CNA/TRT等），60%测试可用"
     }
   ],
   "proxy": {

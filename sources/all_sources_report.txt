@@ -1,0 +1,42 @@
+TVBox 直播源测试报告
+生成时间: 2026-05-12 23:08:46
+==================================================
+
+汇总:
+  测试源总数: 19
+  可用源数量: 5
+  丢弃源数量: 14
+
+可用源列表:
+  - YanG_Gather (5/5 tested, 100% success)
+    Total channels: 129
+
+  - YanG聚合 (5/5 tested, 100% success)
+    Total channels: 129
+    Source: https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+
+  - YanG聚合 (5/5 tested, 100% success)
+    Total channels: 129
+
+  - trial (3/5 tested, 60% success)
+    Total channels: 24
+
+  - trial (3/5 tested, 60% success)
+    Total channels: 24
+
+
+丢弃源列表:
+  - lalifeier (1/5 tested, 20%, reason: LOW_RATE)
+  - 央视频道 (0/5 tested, 0%, reason: LOW_RATE)
+  - gnodgl_CCTV (0/5 tested, 0%, reason: LOW_RATE)
+  - cuikaipeng_CCTV (0/5 tested, 0%, reason: LOW_RATE)
+  - cuikaipeng_IPTV (0/5 tested, 0%, reason: LOW_RATE)
+  - IPTVN (0/5 tested, 0%, reason: LOW_RATE)
+  - Kimentanm (0/5 tested, 0%, reason: LOW_RATE)
+  - zbefine (0/5 tested, 0%, reason: LOW_RATE)
+  - dxawi (0/0 tested, 0%, reason: NO_CHANNELS)
+  - PyramidStore (0/0 tested, 0%, reason: NO_CHANNELS)
+  - 体育频道 (0/5 tested, 0%, reason: LOW_RATE)
+  - CCTV专版 (0/5 tested, 0%, reason: LOW_RATE)
+  - 崔凯CCTV (0/5 tested, 0%, reason: LOW_RATE)
+  - 崔凯IPTV (0/5 tested, 0%, reason: LOW_RATE)

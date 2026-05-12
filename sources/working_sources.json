@@ -1,0 +1,35 @@
+{
+  "sources": [
+    {
+      "name": "YanG_Gather",
+      "source": "",
+      "total": 129,
+      "rate": 1.0
+    },
+    {
+      "name": "trial",
+      "source": "",
+      "total": 24,
+      "rate": 0.6
+    },
+    {
+      "name": "trial",
+      "source": "",
+      "total": 24,
+      "rate": 0.6
+    },
+    {
+      "name": "YanG聚合",
+      "source": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "total": 129,
+      "rate": 1.0
+    },
+    {
+      "name": "YanG聚合",
+      "source": "",
+      "total": 129,
+      "rate": 1.0
+    }
+  ],
+  "count": 5
+}
