@@ -1,0 +1,355 @@
+{
+  "name": "CCTV+省级卫视 (中国移动源)",
+  "source": "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
+  "total": 58,
+  "channels": [
+    {
+      "name": "CCTV-1 综合",
+      "tvg_id": "cctv1",
+      "logo": "cctv1.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8"
+    },
+    {
+      "name": "CCTV-2 财经",
+      "tvg_id": "cctv2",
+      "logo": "cctv2.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8"
+    },
+    {
+      "name": "CCTV-3 综艺",
+      "tvg_id": "cctv3",
+      "logo": "cctv3.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8"
+    },
+    {
+      "name": "CCTV-4 中文国际",
+      "tvg_id": "cctv4",
+      "logo": "cctv4.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
+    },
+    {
+      "name": "CCTV-5 体育",
+      "tvg_id": "cctv5",
+      "logo": "cctv5.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"
+    },
+    {
+      "name": "CCTV-5+ 体育赛事",
+      "tvg_id": "cctv5plus",
+      "logo": "cctv5plus.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8"
+    },
+    {
+      "name": "CCTV-6 电影",
+      "tvg_id": "cctv6",
+      "logo": "cctv6.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8"
+    },
+    {
+      "name": "CCTV-7 国防军事",
+      "tvg_id": "cctv7",
+      "logo": "cctv7.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
+    },
+    {
+      "name": "CCTV-8 电视剧",
+      "tvg_id": "cctv8",
+      "logo": "cctv8.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
+    },
+    {
+      "name": "CCTV-9 纪录",
+      "tvg_id": "cctvjilu",
+      "logo": "cctvjilu.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"
+    },
+    {
+      "name": "CCTV-10 科教",
+      "tvg_id": "cctv10",
+      "logo": "cctv10.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8"
+    },
+    {
+      "name": "CCTV-11 戏曲",
+      "tvg_id": "cctv11",
+      "logo": "cctv11.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8"
+    },
+    {
+      "name": "CCTV-12 社会与法",
+      "tvg_id": "cctv12",
+      "logo": "cctv12.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8"
+    },
+    {
+      "name": "CCTV-13 新闻",
+      "tvg_id": "cctv13",
+      "logo": "cctv13.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8"
+    },
+    {
+      "name": "CCTV-14 少儿",
+      "tvg_id": "cctvchild",
+      "logo": "cctvchild.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8"
+    },
+    {
+      "name": "CCTV-15 音乐",
+      "tvg_id": "cctv15",
+      "logo": "cctv15.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8"
+    },
+    {
+      "name": "CCTV-16 奥林匹克",
+      "tvg_id": "cctv16",
+      "logo": "cctv16.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"
+    },
+    {
+      "name": "CCTV-17 农业农村",
+      "tvg_id": "cctv17",
+      "logo": "cctv17.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
+    },
+    {
+      "name": "CETV-1",
+      "tvg_id": "cetv1",
+      "logo": "cetv1.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8"
+    },
+    {
+      "name": "CETV-2",
+      "tvg_id": "cetv2",
+      "logo": "cetv2.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8"
+    },
+    {
+      "name": "CETV-3",
+      "tvg_id": "cetv3",
+      "logo": "cetv3.png",
+      "url": "http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8"
+    },
+    {
+      "name": "CETV-4",
+      "tvg_id": "cetv4",
+      "logo": "cetv4.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8"
+    },
+    {
+      "name": "东南卫视",
+      "tvg_id": "dongnan",
+      "logo": "dongnan.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8"
+    },
+    {
+      "name": "东方卫视",
+      "tvg_id": "dongfang",
+      "logo": "dongfang.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8"
+    },
+    {
+      "name": "云南卫视",
+      "tvg_id": "yunnan",
+      "logo": "yunnan.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8"
+    },
+    {
+      "name": "兵团卫视",
+      "tvg_id": "bingtuan",
+      "logo": "bingtuan.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8"
+    },
+    {
+      "name": "内蒙古卫视",
+      "tvg_id": "neimenggu",
+      "logo": "neimenggu.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8"
+    },
+    {
+      "name": "北京卫视",
+      "tvg_id": "btv1",
+      "logo": "btv1.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8"
+    },
+    {
+      "name": "卡酷少儿",
+      "tvg_id": "btvchild",
+      "logo": "btvchild.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8"
+    },
+    {
+      "name": "厦门卫视",
+      "tvg_id": "xiamen",
+      "logo": "xiamen.png",
+      "url": "http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8"
+    },
+    {
+      "name": "吉林卫视",
+      "tvg_id": "jilin",
+      "logo": "jilin.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8"
+    },
+    {
+      "name": "四川卫视",
+      "tvg_id": "sichuan",
+      "logo": "sichuan.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8"
+    },
+    {
+      "name": "天津卫视",
+      "tvg_id": "tianjin",
+      "logo": "tianjin.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8"
+    },
+    {
+      "name": "宁夏卫视",
+      "tvg_id": "ningxia",
+      "logo": "ningxia.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8"
+    },
+    {
+      "name": "安徽卫视",
+      "tvg_id": "anhui",
+      "logo": "anhui.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8"
+    },
+    {
+      "name": "山东卫视",
+      "tvg_id": "shandong",
+      "logo": "shandong.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8"
+    },
+    {
+      "name": "山西卫视",
+      "tvg_id": "shan1xi",
+      "logo": "shan1xi.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8"
+    },
+    {
+      "name": "广东卫视",
+      "tvg_id": "guangdong",
+      "logo": "guangdong.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8"
+    },
+    {
+      "name": "广西卫视",
+      "tvg_id": "guangxi",
+      "logo": "guangxi.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8"
+    },
+    {
+      "name": "延边卫视",
+      "tvg_id": "yanbian",
+      "logo": "yanbian.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8"
+    },
+    {
+      "name": "新疆卫视",
+      "tvg_id": "xinjiang",
+      "logo": "xinjiang.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8"
+    },
+    {
+      "name": "江苏卫视",
+      "tvg_id": "jiangsu",
+      "logo": "jiangsu.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8"
+    },
+    {
+      "name": "江西卫视",
+      "tvg_id": "jiangxi",
+      "logo": "jiangxi.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8"
+    },
+    {
+      "name": "河北卫视",
+      "tvg_id": "hebei",
+      "logo": "hebei.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8"
+    },
+    {
+      "name": "河南卫视",
+      "tvg_id": "henan",
+      "logo": "henan.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8"
+    },
+    {
+      "name": "浙江卫视",
+      "tvg_id": "zhejiang",
+      "logo": "zhejiang.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8"
+    },
+    {
+      "name": "海南卫视",
+      "tvg_id": "travel",
+      "logo": "travel.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8"
+    },
+    {
+      "name": "深圳卫视",
+      "tvg_id": "shenzhen",
+      "logo": "shenzhen.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8"
+    },
+    {
+      "name": "湖北卫视",
+      "tvg_id": "hubei",
+      "logo": "hubei.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8"
+    },
+    {
+      "name": "湖南卫视",
+      "tvg_id": "hunan",
+      "logo": "hunan.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8"
+    },
+    {
+      "name": "甘肃卫视",
+      "tvg_id": "gansu",
+      "logo": "gansu.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8"
+    },
+    {
+      "name": "西藏卫视",
+      "tvg_id": "xizang",
+      "logo": "xizang.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8"
+    },
+    {
+      "name": "贵州卫视",
+      "tvg_id": "guizhou",
+      "logo": "guizhou.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8"
+    },
+    {
+      "name": "辽宁卫视",
+      "tvg_id": "liaoning",
+      "logo": "liaoning.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8"
+    },
+    {
+      "name": "重庆卫视",
+      "tvg_id": "chongqing",
+      "logo": "chongqing.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8"
+    },
+    {
+      "name": "陕西卫视",
+      "tvg_id": "shan3xi",
+      "logo": "shan3xi.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8"
+    },
+    {
+      "name": "青海卫视",
+      "tvg_id": "qinghai",
+      "logo": "qinghai.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8"
+    },
+    {
+      "name": "黑龙江卫视",
+      "tvg_id": "heilongjiang",
+      "logo": "heilongjiang.png",
+      "url": "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8"
+    }
+  ]
+}

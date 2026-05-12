@@ -1,16 +1,25 @@
 {
   "name": "TVBox 直播源配置",
   "description": "本地化 TVBox 直播源管理与加速配置中心",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "cbbdft",
   "sources": [
+    {
+      "name": "CCTV+省级卫视 (中国移动源)",
+      "file": "sources/china.json",
+      "enabled": true,
+      "channels": 58,
+      "verified": false,
+      "source_url": "https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u",
+      "note": "央视17台+省级37台，OTTrrs中国移动CDN，优先央视。请在TVBox上测试。"
+    },
     {
       "name": "YanG聚合",
       "file": "sources/YanG聚合.json",
       "enabled": true,
       "channels": 129,
       "verified": true,
-      "note": "央视/咪咕/移动频道，100%测试可用"
+      "note": "央视/咪咕/移动频道，epg.yang-1989.eu.org"
     },
     {
       "name": "trial国际频道",
@@ -18,7 +27,7 @@
       "enabled": true,
       "channels": 24,
       "verified": true,
-      "note": "国际频道（CNA/TRT等），60%测试可用"
+      "note": "国际频道（CNA/TRT等）"
     }
   ],
   "proxy": {
