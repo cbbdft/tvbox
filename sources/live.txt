@@ -34,7 +34,5 @@ http://112.27.235.94:8000/hls/15/index.m3u8
 http://112.27.235.94:8000/hls/16/index.m3u8
 央视频道,CCTV17
 http://112.27.235.94:8000/hls/17/index.m3u8
-央视频道,CCTV18
-http://112.27.235.94:8000/hls/18/index.m3u8
 央视频道,CCTV4K
 http://222.169.85.8:9901/tsfile/live/0012_1.m3u8
