@@ -1,0 +1,296 @@
+{
+    "wallpaper": "https://oss4liview.mojy.com/thd_file/2026/05/08/b216ded4a854a190ce9f6bd280aff779.jpg;md5:448a9f26f33109f6aa148971c3adab46",
+    "sites": [
+        {
+            "key": "饭太硬",
+            "name": "🎬 饭太硬",
+            "type": 3,
+            "api": "csp_DouDouGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "MDrive",
+            "name": "📁 网盘",
+            "type": 3,
+            "api": "csp_MyDriveGuard",
+            "changeable": 0,
+            "searchable": 1,
+            "style": {"type": "oval"},
+            "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}
+        },
+        {
+            "key": "磁力",
+            "name": "🔗 磁力",
+            "type": 3,
+            "api": "csp_WoGGGuard",
+            "timeout": 30,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}
+        },
+        {
+            "key": "YGP",
+            "name": "☁️ 云盘",
+            "type": 3,
+            "api": "csp_YGPGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "MTV1",
+            "name": "🎵 听书",
+            "type": 3,
+            "api": "csp_MusicGuard",
+            "style": {"type": "rect", "ratio": 1},
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
+            "key": "种子",
+            "name": "🎮 种子",
+            "type": 3,
+            "api": "csp_SeedHubGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "5++kwLhNYm9UrO9wh7Dl7eKalTee4s/5",
+            "style": {"type": "list"}
+        },
+        {
+            "key": "瓜子",
+            "name": "📺 瓜子",
+            "type": 3,
+            "api": "csp_S_zpsGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {"siteUrl": "http://107.173.211.148/"},
+            "style": {"type": "list"}
+        },
+        {
+            "key": "番茄",
+            "name": "🍅 番茄",
+            "type": 3,
+            "api": "csp_T4Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "rfOIlzPkSOkANv6AT2prC8en3+Trbx4j10CfOaXMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeeZdgyWlo4WJjBL5gu6B7LvCEDT4CKrShL75AiGhjhdgFX0cfnI/kIpThJiEHZ0lc8r7irE4mRMeLQz4llfmVMCtjIFNlHP1T3XqwSmYXd34DFAtngbgrpiMBiYW36CCI5rTkC3Rtg1wQJqazUzyVHx4Zz5bWbpPv4G8q7PfHWYStVeDannVT2lmLzKbGEDahyvLhNZRjXO5rPiruB0ydDcR/e/g5nx8N3JhG0oucfv6xDLd0XxYy0K2bY3plqx32kfnS63xa8sQDbGlYoPtdHQCi2cAvEOaqMb5a6r2D3yvcLXALjk37CJgQObzK0bCggZPm3B3YenAunxl5OQmXrzLHjs6I2isL5AwTS2YAjD/R3f4FYWBp+4RdwMBAChatxjEHcaFhCUb0nfTgYKQ4a1pZ4j6+d4YHa0GcMYHO5NZQ0tDRZfAZPcfYaWLSW8iIUX6G2e0JnI6bLAN1TR0AVer8lxfU0zAzAODkBVrt8Oafq0IQ6MeGFcFRGMu4QWRrzaublQ=="
+        },
+        {
+            "key": "LIBVIO",
+            "name": "🎞️ LIBVIO",
+            "type": 3,
+            "api": "csp_LibvioGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}
+        },
+        {
+            "key": "新视",
+            "name": "🎪 新视",
+            "type": 3,
+            "api": "csp_NewCzGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "飘零",
+            "name": "📺 飘零",
+            "type": 3,
+            "api": "csp_JpysGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "影社",
+            "name": "🎬 影社",
+            "type": 3,
+            "api": "csp_YcyzGuard",
+            "timeout": 15,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "蝴蝶",
+            "name": "🦋 蝴蝶",
+            "type": 3,
+            "api": "csp_BtwooGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "农民视频",
+            "name": "🌾 农民视频",
+            "type": 3,
+            "api": "csp_NmyswdGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "_appTT",
+            "name": "📺 _appTT",
+            "type": 3,
+            "api": "csp_AppTTGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "uqGL1bNENE7/hGxpSE5qU="
+        },
+        {
+            "key": "影视sx",
+            "name": "🎬 影视 sx",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuSluizZL4+/lm1iJsy3HwNWMxpf9CY77fshI+kByo7y7DyPtaUZ1jk0tx1p"
+        }
+    ],
+    "live": [
+        {
+            "name": "饭太硬主站",
+            "url": "http://www.饭太硬.com/tv",
+            "type": "config",
+            "note": "TVBox 数据源配置（点播+搜索）"
+        },
+        {
+            "name": "饭太硬备用1",
+            "url": "http://fty.888484.xyz/tv",
+            "type": "config",
+            "note": "备用接口"
+        },
+        {
+            "name": "饭太硬备用2",
+            "url": "http://fty.xxooo.cf/tv",
+            "type": "config",
+            "note": "备用接口（xxooo.cf）"
+        },
+        {
+            "name": "饭硬专线直播",
+            "url": "https://xhdwc.tk/tvlive.txt",
+            "type": "live",
+            "note": "饭太硬专线直播源"
+        },
+        {
+            "name": "道长-云盘",
+            "url": "https://jihulab.com/z-blog/xh2/-/raw/main/t3.json",
+            "type": "config",
+            "note": "道长云盘线路"
+        },
+        {
+            "name": "砂锅多仓",
+            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/d.json",
+            "type": "config",
+            "note": "砂锅多仓线路"
+        },
+        {
+            "name": "肥猫",
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "type": "config",
+            "note": "肥猫接口"
+        },
+        {
+            "name": "肥猫备用",
+            "url": "https://cdn.staticaly.com/gh/liu673cn/box/main/m.json",
+            "type": "config",
+            "note": "肥猫备用"
+        },
+        {
+            "name": "meow线路",
+            "url": "https://raw.fastgit.org/anaer/Meow@main/meow.json",
+            "type": "config",
+            "note": "meow线路"
+        },
+        {
+            "name": "运输车",
+            "url": "https://weixine.net/ysc.json",
+            "type": "config",
+            "note": "运输车线路"
+        },
+        {
+            "name": "荷城茶秀",
+            "url": "https://raw.fastgit.org/XiaoYiChaHang/tvbox/main/ysj.json",
+            "type": "config",
+            "note": "荷城茶秀"
+        },
+        {
+            "name": "月光宝盒",
+            "url": "https://raw.fastgit.org/guot55/YGBH/main/ygbox.json",
+            "type": "config",
+            "note": "月光宝盒"
+        },
+        {
+            "name": "天天开心",
+            "url": "http://rihou.vip/天天开心",
+            "type": "config",
+            "note": "天天开心接口"
+        },
+        {
+            "name": "XB线路",
+            "url": "https://raw.fastgit.org/QFBJ/KKHZ@main/002.json",
+            "type": "config",
+            "note": "第四线路XB"
+        },
+        {
+            "name": "ZB线路",
+            "url": "https://jihulab.com/xz101522/tvbox/-/raw/main/live.txt",
+            "type": "live",
+            "note": "ZB直播线路"
+        },
+        {
+            "name": "Guovin IPTV",
+            "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
+            "type": "live",
+            "note": "GitHub IPTV直播源（自动更新）"
+        },
+        {
+            "name": "Yoursmile TVBox",
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+            "type": "live",
+            "note": "TVBox live.txt"
+        },
+        {
+            "name": "PizazzGY TVBox",
+            "url": "https://raw.fastgit.org/PizazzGY/TVBox_warehouse/main/live.txt",
+            "type": "live",
+            "note": "TVBox仓库直播"
+        },
+        {
+            "name": "直播源搜索引擎",
+            "url": "http://www.foodieguide.com/iptvsearch/?s=",
+            "type": "search",
+            "note": "全网直播源搜索引擎"
+        },
+        {
+            "name": "CCTV直播大全",
+            "url": "https://tv.cctv.com/live/",
+            "type": "web",
+            "note": "央视网官方直播"
+        }
+    ]
+}
