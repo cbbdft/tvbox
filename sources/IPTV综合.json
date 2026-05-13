@@ -1,0 +1,76 @@
+{
+  "name": "IPTV综合",
+  "source": "https://raw.githubusercontent.com/cuikaipeng/IPTV/main/IPTV.m3u",
+  "channels": [
+    {
+      "name": "CGTN英语",
+      "url": "https://0472.org/hls/cgtn.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/CGTN.png"
+    },
+    {
+      "name": "CGTN记录",
+      "url": "https://0472.org/hls/cgtnd.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/CGTN纪录.png"
+    },
+    {
+      "name": "CGTN俄语",
+      "url": "https://0472.org/hls/cgtne.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/CGTN俄语.png"
+    },
+    {
+      "name": "CGTN法语",
+      "url": "https://0472.org/hls/cgtnf.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/CGTN法语.png"
+    },
+    {
+      "name": "CGTN西语",
+      "url": "https://0472.org/hls/cgtnx.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/CGTN西语.png"
+    },
+    {
+      "name": "CGTN阿语",
+      "url": "https://0472.org/hls/cgtna.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/CGTN阿语.png"
+    },
+    {
+      "name": "浙江新闻",
+      "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/浙江新闻.png"
+    },
+    {
+      "name": "浙江国际",
+      "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/浙江国际.png"
+    },
+    {
+      "name": "浙江少儿",
+      "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/浙江少儿.png"
+    },
+    {
+      "name": "浙江教科",
+      "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/浙江教科影视.png"
+    },
+    {
+      "name": "之江纪录",
+      "url": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/之江纪录.png"
+    },
+    {
+      "name": "浙江民生",
+      "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/浙江民生休闲.png"
+    },
+    {
+      "name": "浙江经济",
+      "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/浙江经济生活.png"
+    },
+    {
+      "name": "浙江钱江",
+      "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/钱江都市.png"
+    }
+  ]
+}

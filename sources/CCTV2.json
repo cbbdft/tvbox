@@ -1,0 +1,36 @@
+{
+  "name": "CCTV2",
+  "source": "https://raw.githubusercontent.com/cuikaipeng/IPTV/main/CCTV.m3u",
+  "channels": [
+    {
+      "name": "CGTN英语",
+      "url": "https://0472.org/hls/cgtn.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/CGTN.png"
+    },
+    {
+      "name": "CGTN记录",
+      "url": "https://0472.org/hls/cgtnd.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/CGTN纪录.png"
+    },
+    {
+      "name": "CGTN俄语",
+      "url": "https://0472.org/hls/cgtne.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/CGTN俄语.png"
+    },
+    {
+      "name": "CGTN法语",
+      "url": "https://0472.org/hls/cgtnf.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/CGTN法语.png"
+    },
+    {
+      "name": "CGTN西语",
+      "url": "https://0472.org/hls/cgtnx.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/CGTN西语.png"
+    },
+    {
+      "name": "CGTN阿语",
+      "url": "https://0472.org/hls/cgtna.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/CGTN阿语.png"
+    }
+  ]
+}
