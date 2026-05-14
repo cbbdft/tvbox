@@ -5,6 +5,34 @@
   "author": "cbbdft",
   "sources": [
     {
+      "name": "聚合接口1 (饭太硬 - 推荐)",
+      "type": 1,
+      "api": "https://www.饭太硬.top/tv",
+      "enabled": true,
+      "version": 3
+    },
+    {
+      "name": "聚合接口2 (肥猫)",
+      "type": 1,
+      "api": "http://肥猫.live",
+      "enabled": true,
+      "version": 3
+    },
+    {
+      "name": "聚合接口3 (香雅情)",
+      "type": 1,
+      "api": "https://raw.kkgithub.com/XiaoYeoX/TVBox/main/XYQTVBox.json",
+      "enabled": true,
+      "version": 3
+    },
+    {
+      "name": "聚合接口4 (摸鱼儿)",
+      "type": 1,
+      "api": "http://xn--ihqu10cn4cx911d.com:66/api/kx?token=",
+      "enabled": true,
+      "version": 3
+    },
+    {
       "name": "CCTV+省级频道(vbskycn)",
       "file": "sources/cctv_provincial.m3u",
       "type": "m3u",

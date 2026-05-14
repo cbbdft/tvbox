@@ -1,0 +1,85 @@
+{
+  "name": "CCTV与省级卫视 (北邮+咪咕)",
+  "source": "bupt+cmvideo",
+  "total": 15,
+  "tested_sample": 15,
+  "working_in_sample": 15,
+  "sample_success_rate": 1.0,
+  "channels": [
+    {
+      "name": "CCTV-1 综合",
+      "url": "http://ivi.bupt.edu.cn/hls/cctv1.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/cctv1.png"
+    },
+    {
+      "name": "CCTV-2 财经",
+      "url": "http://ivi.bupt.edu.cn/hls/cctv2.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/cctv2.png"
+    },
+    {
+      "name": "CCTV-5 体育",
+      "url": "http://ivi.bupt.edu.cn/hls/cctv5.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/cctv5.png"
+    },
+    {
+      "name": "CCTV-5+ 赛事",
+      "url": "http://ivi.bupt.edu.cn/hls/cctv5+.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/cctv5+.png"
+    },
+    {
+      "name": "CCTV-6 电影",
+      "url": "http://ivi.bupt.edu.cn/hls/cctv6.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/cctv6.png"
+    },
+    {
+      "name": "CCTV-14 少儿",
+      "url": "http://ivi.bupt.edu.cn/hls/cctvjsh.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/cctvjsh.png"
+    },
+    {
+      "name": "CCTV-17 农业农村",
+      "url": "http://ivi.bupt.edu.cn/hls/cctv17.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/cctv17.png"
+    },
+    {
+      "name": "湖南卫视",
+      "url": "http://ivi.bupt.edu.cn/hls/hunantv.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/hunantv.png"
+    },
+    {
+      "name": "浙江卫视",
+      "url": "http://ivi.bupt.edu.cn/hls/zjtv.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/zjtv.png"
+    },
+    {
+      "name": "江苏卫视",
+      "url": "http://ivi.bupt.edu.cn/hls/jstvm.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/jstvm.png"
+    },
+    {
+      "name": "东方卫视",
+      "url": "http://ivi.bupt.edu.cn/hls/dfw.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/dfw.png"
+    },
+    {
+      "name": "北京卫视",
+      "url": "http://ivi.bupt.edu.cn/hls/btvbfw.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/btvbfw.png"
+    },
+    {
+      "name": "广东卫视",
+      "url": "http://ivi.bupt.edu.cn/hls/gdtv.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/gdtv.png"
+    },
+    {
+      "name": "深圳卫视",
+      "url": "http://ivi.bupt.edu.cn/hls/sztv.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/sztv.png"
+    },
+    {
+      "name": "四川卫视",
+      "url": "http://ivi.bupt.edu.cn/hls/scstv.m3u8",
+      "logo": "https://live.fanmingming.cn/tv/scstv.png"
+    }
+  ]
+}
