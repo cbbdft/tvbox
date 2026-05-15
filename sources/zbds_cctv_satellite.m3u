@@ -1,420 +1,420 @@
-#EXTM3U x-tvg-url=""
+#EXTM3U
 #=============================
-# CCTV与省级卫视直播源
+# CCTV与省级卫视直播源 - 带视频画面
 # 数据源: live.zbds.top (每6小时自动更新)
 # 更新时间: 2026-05-15
-# 仅供个人使用，请勿商用
+# 每个频道提供多源备用
 #=============================
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-1 综合
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv1.png
-#EXTINF:-1,1=CCTV1 综合
-https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+#EXTINF:-1,tvlist="cctv1",1=CCTV-1 综合
+http://124.116.183.146:9901/tsfile/live/0001_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-2 财经
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv2.png
-#EXTINF:-1,2=CCTV2 财经
-https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+#EXTINF:-1,tvlist="cctv2",2=CCTV-2 财经
+http://222.169.85.8:9901/tsfile/live/0002_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-3 综艺
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv3.png
-#EXTINF:-1,3=CCTV3 综艺
-https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
+#EXTINF:-1,tvlist="cctv3",3=CCTV-3 综艺
+http://222.169.85.8:9901/tsfile/live/0003_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-4 中文国际
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv4.png
-#EXTINF:-1,4=CCTV4 中文国际
-https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+#EXTINF:-1,tvlist="cctv4",4=CCTV-4 中文国际
+http://124.116.183.146:9901/tsfile/live/0004_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-5 体育
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv5.png
-#EXTINF:-1,5=CCTV5 体育
-https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
+#EXTINF:-1,tvlist="cctv5",5=CCTV-5 体育
+http://222.169.85.8:9901/tsfile/live/0005_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-5+ 体育赛事
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv5plus.png
-#EXTINF:-1,6=CCTV5+ 体育赛事
-https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+#EXTINF:-1,tvlist="cctv5plus",6=CCTV-5+ 体育赛事
+http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-6 电影
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv6.png
-#EXTINF:-1,7=CCTV6 电影
-https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
+#EXTINF:-1,tvlist="cctv6",7=CCTV-6 电影
+http://222.169.85.8:9901/tsfile/live/0006_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-7 国防军事
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv7.png
-#EXTINF:-1,8=CCTV7 国防军事
-https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
+#EXTINF:-1,tvlist="cctv7",8=CCTV-7 国防军事
+http://182.150.23.74:808/hls/7/index.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-8 电视剧
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv8.png
-#EXTINF:-1,9=CCTV8 电视剧
-https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+#EXTINF:-1,tvlist="cctv8",9=CCTV-8 电视剧
+http://222.169.85.8:9901/tsfile/live/0008_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-9 纪录
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv9.png
-#EXTINF:-1,10=CCTV9 纪录
-https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
+#EXTINF:-1,tvlist="cctv9",10=CCTV-9 纪录
+http://222.169.85.8:9901/tsfile/live/0009_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-10 科教
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv10.png
-#EXTINF:-1,11=CCTV10 科教
-https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
+#EXTINF:-1,tvlist="cctv10",11=CCTV-10 科教
+http://124.116.183.146:9901/tsfile/live/0010_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-11 戏曲
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv11.png
-#EXTINF:-1,12=CCTV11 戏曲
-https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
+#EXTINF:-1,tvlist="cctv11",12=CCTV-11 戏曲
+http://222.169.85.8:9901/tsfile/live/0011_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-12 社会与法
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv12.png
-#EXTINF:-1,13=CCTV12 社会与法
-https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
+#EXTINF:-1,tvlist="cctv12",13=CCTV-12 社会与法
+http://222.169.85.8:9901/tsfile/live/0012_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-13 新闻
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv13.png
-#EXTINF:-1,14=CCTV13 新闻
-http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1,tvlist="cctv13",14=CCTV-13 新闻
+http://222.169.85.8:9901/tsfile/live/0013_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-14 少儿
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv14.png
-#EXTINF:-1,15=CCTV14 少儿
-https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
+#EXTINF:-1,tvlist="cctv14",15=CCTV-14 少儿
+http://222.169.85.8:9901/tsfile/live/0014_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-15 音乐
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv15.png
-#EXTINF:-1,16=CCTV15 音乐
-https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
+#EXTINF:-1,tvlist="cctv15",16=CCTV-15 音乐
+http://222.169.85.8:9901/tsfile/live/0015_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-16 奥林匹克
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv16.png
-#EXTINF:-1,17=CCTV16 奥林匹克
-https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+#EXTINF:-1,tvlist="cctv16",17=CCTV-16 奥林匹克
+http://gmxw.7766.org:808/hls/169/index.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="央视频道",CCTV-17 农业农村
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv17.png
-#EXTINF:-1,18=CCTV17 农业农村
-https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+#EXTINF:-1,tvlist="cctv17",18=CCTV-17 农业农村
+http://123.130.84.106:8154/tsfile/live/0019_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
-#group-title="央视频道",CGTN
+#group-title="央视频道",CGTN 英语
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cgtn.png
-#EXTINF:-1,19=CGTN
+#EXTINF:-1,tvlist="cgtn",19=CGTN 英语
 https://0472.org/hls/cgtn.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
-#group-title="央视频道",CGTN法语
+#group-title="央视频道",CGTN 法语
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cgtnf.png
-#EXTINF:-1,20=CGTN法语
+#EXTINF:-1,tvlist="cgtnf",20=CGTN 法语
 https://0472.org/hls/cgtnf.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
-#group-title="央视频道",CGTN俄语
+#group-title="央视频道",CGTN 俄语
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cgtnr.png
-#EXTINF:-1,21=CGTN俄语
+#EXTINF:-1,tvlist="cgtnr",21=CGTN 俄语
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
-#group-title="央视频道",CGTN西班牙语
+#group-title="央视频道",CGTN 西语
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cgtsx.png
-#EXTINF:-1,22=CGTN西语
+#EXTINF:-1,tvlist="cgtsx",22=CGTN 西语
 https://0472.org/hls/cgtnx.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
-#group-title="央视频道",CGTN阿拉伯语
+#group-title="央视频道",CGTN 阿语
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cgtna.png
-#EXTINF:-1,23=CGTN阿语
+#EXTINF:-1,tvlist="cgtna",23=CGTN 阿语
 https://0472.org/hls/cgtna.m3u8
-
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
-
-#group-title="央视频道",中央电视台4K
-#EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv4k.png
-#EXTINF:-1,24=CCTV4K
-http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
-
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
-
-#group-title="央视频道",央视频道8K
-#EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv8k.png
-#EXTINF:-1,25=CCTV8K
-http://vip1.xinketongxun.fun:8082/tsfile/live/1027_1.m3u8
-
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
-
-#group-title="央视频道",CCTV4K
-#EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cctv4k.png
-#EXTINF:-1,26=CCTV4K
-http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
-
-#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
-
-#group-title="央视频道",咪咕4K
-#EXTVLCOPT:logo=https://live.fanmingming.cn/tv/ipanda.png
-#EXTINF:-1,27=咪咕4K
-https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",安徽卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/ahws.png
-#EXTINF:-1,28=安徽卫视
-http://124.116.183.146:9901/tsfile/live/0130_1.m3u8
+#EXTINF:-1,tvlist="ahws",24=安徽卫视
+http://222.169.85.8:9901/tsfile/live/0130_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",北京卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/bjws.png
-#EXTINF:-1,29=北京卫视
-http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+#EXTINF:-1,tvlist="bjws",25=北京卫视
+http://222.169.85.8:9901/tsfile/live/0017_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
-#group-title="卫视频道",上海东方卫视
+#group-title="卫视频道",东方卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/dffs.png
-#EXTINF:-1,30=东方卫视
-http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1,tvlist="dffs",26=东方卫视
+http://222.169.85.8:9901/tsfile/live/0018_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",东南卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/dnws.png
-#EXTINF:-1,31=东南卫视
-http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1,tvlist="dnws",27=东南卫视
+http://61.136.172.236:9901/tsfile/live/0137_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",甘肃卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/gsws.png
-#EXTINF:-1,32=甘肃卫视
-http://cssbyd.imwork.net:8082/hls/48/index.m3u8
+#EXTINF:-1,tvlist="gsws",28=甘肃卫视
+http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",广东卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/gdws.png
-#EXTINF:-1,33=广东卫视
-http://124.116.183.146:9901/tsfile/live/0125_1.m3u8
+#EXTINF:-1,tvlist="gdws",29=广东卫视
+http://222.169.85.8:9901/tsfile/live/0125_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",广西卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/gxws.png
-#EXTINF:-1,34=广西卫视
+#EXTINF:-1,tvlist="gxws",30=广西卫视
 http://222.169.85.8:9901/tsfile/live/0113_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",贵州卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/gzws.png
-#EXTINF:-1,35=贵州卫视
-http://182.150.23.74:808/hls/26/index.m3u8
+#EXTINF:-1,tvlist="gzws",31=贵州卫视
+http://222.169.85.8:9901/tsfile/live/0120_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",海南卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/haws.png
-#EXTINF:-1,36=海南卫视
+#EXTINF:-1,tvlist="haws",32=海南卫视
 http://36.32.174.67:60080/newlive/live/hls/46/live.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",河北卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/hbws.png
-#EXTINF:-1,37=河北卫视
+#EXTINF:-1,tvlist="hbws",33=河北卫视
 http://112.27.235.94:8000/hls/39/index.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",河南卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/hnws.png
-#EXTINF:-1,38=河南卫视
-http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+#EXTINF:-1,tvlist="hnws",34=河南卫视
+http://61.136.172.236:9901/tsfile/live/0139_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",湖北卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/hbws.png
-#EXTINF:-1,39=湖北卫视
+#EXTINF:-1,tvlist="hbs",35=湖北卫视
 http://124.116.183.146:9901/tsfile/live/0132_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",湖南卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/hunantv.png
-#EXTINF:-1,40=湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1,tvlist="hunantv",36=湖南卫视
+http://222.169.85.8:9901/tsfile/live/0128_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",吉林卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/jlws.png
-#EXTINF:-1,41=吉林卫视
+#EXTINF:-1,tvlist="jlws",37=吉林卫视
 http://182.150.23.74:808/hls/35/index.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",江苏卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/jsws.png
-#EXTINF:-1,42=江苏卫视
+#EXTINF:-1,tvlist="jsws",38=江苏卫视
 http://222.169.85.8:9901/tsfile/live/0127_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",江西卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/jxws.png
-#EXTINF:-1,43=江西卫视
+#EXTINF:-1,tvlist="jxws",39=江西卫视
 http://182.150.23.74:808/hls/30/index.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",辽宁卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/lnws.png
-#EXTINF:-1,44=辽宁卫视
+#EXTINF:-1,tvlist="lnws",40=辽宁卫视
 http://61.136.172.236:9901/tsfile/live/0121_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",内蒙古卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/nmws.png
-#EXTINF:-1,45=内蒙古卫视
+#EXTINF:-1,tvlist="nmws",41=内蒙古卫视
 http://cssbyd.imwork.net:8082/hls/44/index.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",宁夏卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/nxws.png
-#EXTINF:-1,46=宁夏卫视
-http://cssbyd.imwork.net:8082/hls/45/index.m3u8
+#EXTINF:-1,tvlist="nxws",42=宁夏卫视
+http://222.169.85.8:9901/tsfile/live/0112_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",青海卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/qhws.png
-#EXTINF:-1,47=青海卫视
+#EXTINF:-1,tvlist="qhws",43=青海卫视
 http://111.61.236.247:9081/hls/49/index.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",山东卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/sdws.png
-#EXTINF:-1,48=山东卫视
+#EXTINF:-1,tvlist="sdws",44=山东卫视
 http://222.169.85.8:9901/tsfile/live/0131_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",山西卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/sxws.png
-#EXTINF:-1,49=山西卫视
+#EXTINF:-1,tvlist="sxws",45=山西卫视
 http://112.27.235.94:8000/hls/45/index.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",陕西卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/sxws.png
-#EXTINF:-1,50=陕西卫视
+#EXTINF:-1,tvlist="sxs",46=陕西卫视
 http://112.27.235.94:8000/hls/43/index.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",深圳卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/szws.png
-#EXTINF:-1,51=深圳卫视
-http://124.116.183.146:9901/tsfile/live/0126_1.m3u8
+#EXTINF:-1,tvlist="szws",47=深圳卫视
+http://222.169.85.8:9901/tsfile/live/0126_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",四川卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/scws.png
-#EXTINF:-1,52=四川卫视
-http://124.116.183.146:9901/tsfile/live/0123_1.m3u8
+#EXTINF:-1,tvlist="scws",48=四川卫视
+http://222.169.85.8:9901/tsfile/live/0123_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",天津卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/tjws.png
-#EXTINF:-1,53=天津卫视
+#EXTINF:-1,tvlist="tjws",49=天津卫视
 http://222.169.85.8:9901/tsfile/live/0135_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",西藏卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/xzws.png
-#EXTINF:-1,54=西藏卫视
+#EXTINF:-1,tvlist="xzws",50=西藏卫视
 http://cssbyd.imwork.net:8082/hls/46/index.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",新疆卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/xjws.png
-#EXTINF:-1,55=新疆卫视
+#EXTINF:-1,tvlist="xjws",51=新疆卫视
 http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",云南卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/ynws.png
-#EXTINF:-1,56=云南卫视
+#EXTINF:-1,tvlist="ynws",52=云南卫视
 http://36.32.174.67:60080/newlive/live/hls/45/live.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",浙江卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/zjws.png
-#EXTINF:-1,57=浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1,tvlist="zjws",53=浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",重庆卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/cqws.png
-#EXTINF:-1,58=重庆卫视
-http://124.116.183.146:9901/tsfile/live/0142_1.m3u8
+#EXTINF:-1,tvlist="cqws",54=重庆卫视
+http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
 
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
 
 #group-title="卫视频道",黑龙江卫视
 #EXTVLCOPT:logo=https://live.fanmingming.cn/tv/hljws.png
-#EXTINF:-1,59=黑龙江卫视
-https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+#EXTINF:-1,tvlist="hljws",55=黑龙江卫视
+http://124.116.183.146:9901/tsfile/live/0143_1.m3u8
+
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+
+#group-title="卫视频道",海峡卫视
+#EXTVLCOPT:logo=https://live.fanmingming.cn/tv/xgws.png
+#EXTINF:-1,tvlist="xgws",56=海峡卫视
+http://38.64.72.148:80/hls/modn/list/4009/playlist.m3u8
+
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+
+#group-title="卫视频道",安多卫视
+#EXTVLCOPT:logo=https://live.fanmingming.cn/tv/andws.png
+#EXTINF:-1,tvlist="andws",57=安多卫视
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+
+#group-title="卫视频道",大湾区卫视
+#EXTVLCOPT:logo=https://live.fanmingming.cn/tv/dwqws.png
+#EXTINF:-1,tvlist="dwqws",58=大湾区卫视
+http://222.128.55.152:9080/live/dwq.m3u8
+
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+
+#group-title="卫视频道",山东教育
+#EXTVLCOPT:logo=https://live.fanmingming.cn/tv/sdetv.png
+#EXTINF:-1,tvlist="sdetv",59=山东教育
+https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8

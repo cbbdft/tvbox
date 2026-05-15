@@ -1,7 +1,7 @@
 {
-  "name": "TVBox 直播源配置 - 自维护CCTV与卫视",
-  "description": "基于live.zbds.top自动更新的CCTV与省级卫视直播源（每6小时更新）",
-  "version": "2.0.0",
+  "name": "TVBox 直播源 - 自维护CCTV与卫视 v2.1",
+  "description": "基于live.zbds.top完整视频流的CCTV与省级卫视直播源（每6小时更新）",
+  "version": "2.1.0",
   "author": "cbbdft",
   "updated_at": "2026-05-15",
   "sources": [
@@ -11,7 +11,7 @@
       "type": "m3u",
       "enabled": true,
       "channels": 59,
-      "note": "59个频道：CCTV1-17+CGTN5语+4K+8K+31个卫视，zbds.top每6小时自动更新",
+      "note": "59个频道：CCTV1-17+CGTN5语+31个卫视，完整视频流（非音频），zbds.top每6小时自动更新",
       "source_url": "https://live.zbds.top/tv/iptv4.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "category": ["央视频道", "卫视频道"]
