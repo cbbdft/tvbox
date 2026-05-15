@@ -1,17 +1,17 @@
 {
-  "name": "TVBox 直播源 - 自维护CCTV与卫视 v2.1",
-  "description": "基于live.zbds.top完整视频流的CCTV与省级卫视直播源（每6小时更新）",
-  "version": "2.1.0",
+  "name": "TVBox 直播源 - 自维护CCTV与卫视 v2.2",
+  "description": "基于live.zbds.top完整视频流的CCTV与省级卫视直播源（每6小时更新，已过滤纯音频流）",
+  "version": "2.2.0",
   "author": "cbbdft",
-  "updated_at": "2026-05-15",
+  "updated_at": "2026-05-15T18:30+08:00",
   "sources": [
     {
       "name": "CCTV与卫视 (zbds.top - 推荐)",
       "file": "sources/zbds_cctv_satellite.m3u",
       "type": "m3u",
       "enabled": true,
-      "channels": 59,
-      "note": "59个频道：CCTV1-17+CGTN5语+31个卫视，完整视频流（非音频），zbds.top每6小时自动更新",
+      "channels": 545,
+      "note": "545个频道：CCTV1-17+CGTN5语+省级卫视+地方频道+4K频道，完整视频流（已过滤纯音频流），zbds.top每6小时自动更新",
       "source_url": "https://live.zbds.top/tv/iptv4.m3u",
       "epg": "http://epg.51zmt.top:8000/e.xml",
       "category": ["央视频道", "卫视频道"]
